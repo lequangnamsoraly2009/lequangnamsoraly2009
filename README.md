@@ -10,5 +10,4 @@
 
 ## Projects
 
-- NodeJs: https://github.com/lequangnamsoraly2009/f8-nodejs
-- Shoe: https://github.com/lequangnamsoraly2009/Soraly-s-Shoes
+...
