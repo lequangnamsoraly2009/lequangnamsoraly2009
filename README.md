@@ -1,15 +1,14 @@
-### Hi there 👋
+![banner]
 
-<!--
-**lequangnamsoraly2009/lequangnamsoraly2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lê Quang Nam - HCMUS
 
-Here are some ideas to get you started:
+- Open and friendly.
+- Love to learn new things, especially things related to Frontend stacks.
+- Enjoy working with ReactJS ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Working <a href="https://github.com/lequangnamsoraly2009"><img align="left" width="auto" height="200" src=""></a>
+
+## Projects
+
+- NodeJs: https://github.com/lequangnamsoraly2009/f8-nodejs
+- Shoe: https://github.com/lequangnamsoraly2009/Soraly-s-Shoes
