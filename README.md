@@ -1,6 +1,7 @@
 
 
 # Hi. I'm Lê Quang Nam - HCMUS
+![](https://komarev.com/ghpvc/?username=lequangnamsoraly2009&color=blue&style=flat&label=Views+Count:)
 
 - ❤ Open and friendly.
 - ✔ Love to learn new things, especially things related to Frontend stacks.
