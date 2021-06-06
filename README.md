@@ -8,6 +8,10 @@
 - 🎶 I’m currently learning **JavaScript** - **TypeScript** and **ReactJs** ❤
 - ✔️ My Codingame: https://www.codingame.com/profile/60968b9ae8b11d005a28e895bff88c169862783
 
+## GitHub Social:
+![GitHub followers](https://img.shields.io/github/followers/lequangnamsoraly2009?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/lequangnamsoraly2009?affiliations=OWNER&style=social)
+![Soraly GitHub](https://img.shields.io/badge/Soraly-soralygithub-informational)
 
 ## Connect with me: 
 
