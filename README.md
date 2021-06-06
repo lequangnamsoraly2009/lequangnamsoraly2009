@@ -19,6 +19,9 @@
 <a href="https://www.linkedin.com/in/nam-l%C3%AA-quang-013a241a2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/lequangnam1617" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerank"/></a>
 
+- My Email Default: lequangnam1617@gmail.com
+- My Email Student: 1712603@student.hcmus.edu.vn
+
 <!-- <a href="https://github.com/lequangnamsoraly2009"><img align="left" width="auto" height="500" src="https://images.unsplash.com/photo-1608403890696-0f18a2960153?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"></a>
  -->
 ## GitHub Stats 📈
