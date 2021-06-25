@@ -1,6 +1,6 @@
 
 
-# Hi. I'm Lê Quang Nam - HCMUS
+# Hi. I'm Lê Quang Nam. Welcome !! 
 ![](https://komarev.com/ghpvc/?username=lequangnamsoraly2009&color=blue&style=flat&label=Views+Count:)
 
 - ❤ Open and friendly.
@@ -22,14 +22,10 @@
 - My Email Default: lequangnam1617@gmail.com
 
 
-<!-- <a href="https://github.com/lequangnamsoraly2009"><img align="left" width="auto" height="500" src="https://images.unsplash.com/photo-1608403890696-0f18a2960153?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"></a>
- -->
 ## GitHub Stats 📈
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=lequangnamsoraly2009&show_icons=true&locale=en&theme=tokyonight)
 ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=lequangnamsoraly2009&theme=tokyonight)
-<!-- ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=lequangnamsoraly2009&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequangnamsoraly2009&layout=default&theme=tokyonight)
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lequangnamsoraly2009&layout=default) -->
 
 
