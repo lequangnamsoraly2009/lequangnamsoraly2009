@@ -19,7 +19,6 @@
 <a href="https://www.linkedin.com/in/nam-l%C3%AA-quang-013a241a2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/lequangnam1617" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerank"/></a>
 
-- My Email Default: lequangnam1617@gmail.com
 
 
 ## GitHub Stats 📈
