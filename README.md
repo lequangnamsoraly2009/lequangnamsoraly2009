@@ -1,6 +1,6 @@
 
 
-# Hi. I'm Lê Quang Nam. Welcome !! 
+# Hi. I'm Nam. Welcome !! 
 ![](https://komarev.com/ghpvc/?username=lequangnamsoraly2009&color=blue&style=flat&label=Views+Count:)
 
 - ❤ Open and friendly.
