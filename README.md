@@ -1,7 +1,7 @@
 
 
 # Hi. I'm Nam. Welcome !! 
-![](https://komarev.com/ghpvc/?username=lequangnamsoraly2009&color=blue&style=flat&label=Views+Count:)
+<!-- ![](https://komarev.com/ghpvc/?username=lequangnamsoraly2009&color=blue&style=flat&label=Views+Count:) -->
 
 - ❤ Open and friendly.
 - ✔ Love to learn new things, especially things related to Frontend stacks.
