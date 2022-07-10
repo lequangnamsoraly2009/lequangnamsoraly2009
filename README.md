@@ -6,18 +6,11 @@
 - ❤ Open and friendly.
 - ✔ Love to learn new things, especially things related to Frontend stacks.
 - 🎶 I’m currently learning **JavaScript** - **TypeScript** and **ReactJs** ❤
-- ✔️ My Codingame: https://www.codingame.com/profile/60968b9ae8b11d005a28e895bff88c169862783
 
 ## GitHub Social:
 ![GitHub followers](https://img.shields.io/github/followers/lequangnamsoraly2009?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/lequangnamsoraly2009?affiliations=OWNER&style=social)
 ![Soraly GitHub](https://img.shields.io/badge/Soraly-soralygithub-informational)
-
-## Connect with me: 
-
-<a href="https://www.facebook.com/nam.lequang.39/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-<a href="https://www.linkedin.com/in/nam-l%C3%AA-quang-013a241a2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://www.hackerrank.com/lequangnam1617" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerank"/></a>
 
 ## GitHub Stats 📈
 
