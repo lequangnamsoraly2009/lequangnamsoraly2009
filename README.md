@@ -5,7 +5,7 @@
 
 - ❤ Open and friendly.
 - ✔ Love to learn new things, especially things related to Frontend stacks.
-- 🎶 I’m currently learning **JavaScript** - **TypeScript** and **ReactJs** ❤
+- 🎶 I’m currently learning **JavaScript** - **TypeScript** **NextJs** **VueJs** **NodeJs** and **ReactJs** ❤
 
 ## GitHub Social:
 ![GitHub followers](https://img.shields.io/github/followers/lequangnamsoraly2009?style=social)
