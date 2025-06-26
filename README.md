@@ -13,10 +13,8 @@
 ![Soraly GitHub](https://img.shields.io/badge/Soraly-soralygithub-informational)
 
 ## GitHub Stats 📈
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequangnamsoraly2009&layout=default&theme=tokyonight)
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=lequangnamsoraly2009&show_icons=true&locale=en&theme=tokyonight)
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=lequangnamsoraly2009&theme=tokyonight)
+
 
 
 
