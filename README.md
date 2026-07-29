@@ -4,8 +4,8 @@
 <!-- ![](https://komarev.com/ghpvc/?username=lequangnamsoraly2009&color=blue&style=flat&label=Views+Count:) -->
 
 - ❤ Open and friendly.
-- ✔ Love to learn new things, especially things related to Frontend stacks.
-- 🎶 I’m currently learning **JavaScript** - **TypeScript** **NextJs** **VueJs** **NodeJs** and **ReactJs** ❤
+- ✔ Smile and Cry everyday
+- 🎶 I’m lazy now ❤
 
 ## GitHub Social:
 ![GitHub followers](https://img.shields.io/github/followers/lequangnamsoraly2009?style=social)
